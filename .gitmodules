@@ -1,0 +1,27 @@
+[submodule "Farango"]
+	path = Farango
+	url = git@github.com:FLIHABI/Farango.git
+[submodule "network"]
+	path = network
+	url = git@github.com:FLIHABI/network.git
+[submodule "tolk"]
+	path = tolk
+	url = git@github.com:FLIHABI/tolk.git
+[submodule "config-files"]
+	path = config-files
+	url = git@github.com:FLIHABI/config-files.git
+[submodule "tinykore"]
+	path = tinykore
+	url = git@github.com:FLIHABI/tinykore.git
+[submodule "documentations"]
+	path = documentations
+	url = git@github.com:FLIHABI/documentations.git
+[submodule "ttinara"]
+	path = ttinara
+	url = git@github.com:FLIHABI/ttinara.git
+[submodule "fgbdas"]
+	path = fgbdas
+	url = git@github.com:FLIHABI/fgbdas.git
+[submodule "Commons"]
+	path = Commons
+	url = git@github.com:FLIHABI/Commons.git
