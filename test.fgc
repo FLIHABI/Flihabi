@@ -1,0 +1,11 @@
+fun toto(a : int) : int = 2 * a;
+var tab : lol(int)[] = new(lol(int)[10]);
+for (var a : int = 0; a < 10; a = a + 1) {
+    tab[a] = offer(toto(a));
+};
+var result : int = 0;
+for (var a : int = 0; a < 10; a = a + 1) {
+    result = get(tab[a]) + result;
+};
+result;
+
